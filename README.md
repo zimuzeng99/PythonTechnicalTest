@@ -19,6 +19,7 @@ Inside a virtual environment running Python 3:
 #### API
 
 We should be able to send a request to:
+
 `POST /bonds/`
 
 to create a "bond" with data that looks like:
@@ -33,6 +34,7 @@ to create a "bond" with data that looks like:
 ~~~
 ---
 We should be able to send a request to:
+
 `GET /bonds/`
 
 to see something like:
