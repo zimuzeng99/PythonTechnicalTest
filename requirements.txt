@@ -1,2 +1,6 @@
-Django==2.2.13
-djangorestframework==3.9.4
+Flask==1.1.2
+Flask-SQLAlchemy==2.4.4
+requests==2.24.0
+passlib==1.7.4
+Flask-HTTPAuth==4.2.0
+simplejson==3.17.2
